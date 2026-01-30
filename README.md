@@ -21,7 +21,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> À propos de moi
 
 ```yaml
-Nom: RAVOMANANA Sylvio Andirakoto
+Nom: RAVOMANANA Sylvio Andriakoto
 Niveau: L3 Informatique
 Localisation: Madagascar 🇲🇬
 Domaines:
