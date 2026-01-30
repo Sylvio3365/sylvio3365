@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Bienvenue+sur+mon+profil+GitHub+!;DevOps+%7C+Backend+Developer;Passionn%C3%A9+par+l'automatisation+%26+le+code+propre;Toujours+en+train+d'apprendre+de+nouvelles+technos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Bienvenue+!+%F0%9F%91%8B;DevOps+%7C+Backend+Dev;Code+propre+%26+Automatisation;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
