@@ -8,6 +8,7 @@
 
 [![DevOps](https://img.shields.io/badge/🔧_DevOps-0A0A0A?style=for-the-badge&logoColor=white)](https://github.com/sylvio3365)
 [![Backend](https://img.shields.io/badge/⚙️_Backend_Developer-3776AB?style=for-the-badge&logoColor=white)](https://github.com/sylvio3365)
+[![Linux](https://img.shields.io/badge/🐧_Linux_User-FCC624?style=for-the-badge&logoColor=black)](https://github.com/sylvio3365)
 [![AI Learner](https://img.shields.io/badge/🤖_IA_en_apprentissage-FF6F00?style=for-the-badge&logoColor=white)](https://github.com/sylvio3365)
 
 <br/>
@@ -25,9 +26,11 @@
   "nom": "RAVOMANANA Sylvio Andriakoto",
   "niveau": "L3 Informatique",
   "localisation": "Madagascar 🇲🇬",
+  "os": "Linux 🐧",
   "domaines": [
     "DevOps & Infrastructure",
     "Développement Backend",
+    "Administration Linux",
     "Intelligence Artificielle (en apprentissage)"
   ],
   "objectif": "Devenir un ingénieur logiciel complet et polyvalent",
