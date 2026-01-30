@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAVOMANANA%20Sylvio%20Andirakoto&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<div align="center">
+
+# 👋 RAVOMANANA Sylvio Andirakoto
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+L3+Informatique;%F0%9F%94%A7+DevOps+%7C+Backend+Developer;%F0%9F%90%A7+Linux+Enthusiast" alt="Header" />
+
+</div>
 
 <div align="center">
 
