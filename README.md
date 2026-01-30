@@ -20,16 +20,19 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> À propos de moi
 
-```yaml
-Nom: RAVOMANANA Sylvio Andriakoto
-Niveau: L3 Informatique
-Localisation: Madagascar 🇲🇬
-Domaines:
-  - DevOps & Infrastructure
-  - Développement Backend
-  - Intelligence Artificielle (en apprentissage)
-Objectif: Devenir un ingénieur logiciel complet et polyvalent
-Fun fact: Je transforme le café ☕ en code fonctionnel 💻
+```json
+{
+  "nom": "RAVOMANANA Sylvio Andriakoto",
+  "niveau": "L3 Informatique",
+  "localisation": "Madagascar 🇲🇬",
+  "domaines": [
+    "DevOps & Infrastructure",
+    "Développement Backend",
+    "Intelligence Artificielle (en apprentissage)"
+  ],
+  "objectif": "Devenir un ingénieur logiciel complet et polyvalent",
+  "fun_fact": "Je transforme le café ☕ en code fonctionnel 💻"
+}
 ```
 
 ---
