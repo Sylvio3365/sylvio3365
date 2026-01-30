@@ -8,8 +8,6 @@
 
 <div align="center">
 
-### 🎓 Étudiant en L3 Informatique
-
 <br/>
 
 [![DevOps](https://img.shields.io/badge/🔧_DevOps-0A0A0A?style=for-the-badge&logoColor=white)](https://github.com/sylvio3365)
