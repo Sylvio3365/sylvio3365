@@ -154,17 +154,6 @@
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/sylvio3365/sylvio3365/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🤝 Me contacter
 
